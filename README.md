@@ -23,6 +23,10 @@ everything moves with the beat.
 - **Every song looks different.** Pulse listens to the tempo and picks a look to match: flowing ink
   for slow songs, a growing collage for mid-tempo ones, a glowing beam for fast ones.
 - **Songs build up.** Pulse finds the verses and choruses, so each chorus hits harder than the last.
+- **Words come alive.** "Fire" catches flame, "rain" drips, "down" falls off the line, "heart" beats
+  with the drums.
+- **Works in the background too.** Press **L** for a slim lyric bar that stays on top of your other
+  windows while you work.
 - **No sign-in.** It works with Spotify Free or Premium. You don't need to connect any account.
 
 ## Scenes
@@ -58,6 +62,8 @@ and installs it the next time you close Pulse. Press **U** to install it straigh
 | Key | What it does |
 |---|---|
 | Tab | Choose a scene |
+| , | Settings: text size, flashing effects, word effects, start fullscreen… |
+| L | Mini lyric bar on / off (stays on top while you work) |
 | F | Fullscreen on / off |
 | ← / → | Move the lyrics earlier / later by 0.1 s if they're out of time (remembered for each song) |
 | Space | Play / pause |

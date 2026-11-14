@@ -5,7 +5,7 @@
 <h1 align="center">Pulse</h1>
 
 <p align="center">
-  Lyrics that move with the music, for whatever you're playing on Spotify.<br>
+  Lyrics that move with the music, for whatever you're playing: Spotify, YouTube and more.<br>
   A free app for Windows 10 and 11, made by <a href="https://github.com/afeef-iniyavan">Afeef Iniyavan</a>.
 </p>
 
@@ -17,7 +17,7 @@
 
 ## What it does
 
-Play a song in Spotify and open Pulse. The lyrics fill your screen in time with the singer, and
+Play a song (in Spotify, YouTube in your browser, or another music app) and open Pulse. The lyrics fill your screen in time with the singer, and
 everything moves with the beat.
 
 - **Every song looks different.** Pulse listens to the tempo and picks a look to match: flowing ink
@@ -27,7 +27,11 @@ everything moves with the beat.
   with the drums.
 - **Works in the background too.** Press **L** for a slim lyric bar that stays on top of your other
   windows while you work.
-- **No sign-in.** It works with Spotify Free or Premium. You don't need to connect any account.
+- **YouTube too.** Pulse follows whatever is playing, cleans up video titles to find the lyrics,
+  and when an ad comes on, the band takes a break: a little animated story that lasts as long as
+  the ad, and the curtain goes back up when your song returns.
+- **No sign-in.** It works with Spotify Free or Premium, and YouTube with or without an account.
+  You don't need to connect anything.
 
 ## Scenes
 
@@ -41,7 +45,8 @@ There are also **Liquid Glass**, **Kinetic Poster**, **Shatter & Reform** and **
 
 ## Install
 
-You need **Windows 10 or 11** (64-bit) and the **Spotify app for Windows**.
+You need **Windows 10 or 11** (64-bit) and something to play music: the **Spotify app**, **YouTube**
+in Chrome or Edge, or another music app.
 
 1. Open the [latest release](https://github.com/afeef-iniyavan/Pulse-Releases/releases/latest) and
    download **Pulse-Setup-…exe** under *Assets*.
@@ -50,7 +55,7 @@ You need **Windows 10 or 11** (64-bit) and the **Spotify app for Windows**.
 3. Pulse installs in a few seconds and opens fullscreen (press **F** for a window). It's in your
    Start menu and on your desktop.
 
-Then play something in Spotify.
+Then play some music.
 
 ## Updates
 
@@ -63,6 +68,7 @@ and installs it the next time you close Pulse. Press **U** to install it straigh
 |---|---|
 | Tab | Choose a scene |
 | , | Settings: text size, flashing effects, word effects, start fullscreen… |
+| Enter | Lyrics out of time? Press Enter, then again the moment the singer starts the line shown |
 | L | Mini lyric bar on / off (stays on top while you work) |
 | F | Fullscreen on / off |
 | ← / → | Move the lyrics earlier / later by 0.1 s if they're out of time (remembered for each song) |
@@ -88,8 +94,10 @@ and installs it the next time you close Pulse. Press **U** to install it straigh
   cover with a visualizer instead.
 - **Lyrics slightly early or late:** use ← / →. Bluetooth headphones add a delay, so they often
   need a nudge.
-- **Pulse doesn't show the song:** make sure it's playing in the Spotify app for Windows, then give
-  Pulse a few seconds.
+- **Lyrics out of time on a music video:** videos often have an intro the album version doesn't.
+  Press **Enter**, then Enter again when the singer starts the line shown. Pulse remembers it.
+- **Pulse shows the wrong song:** it follows whatever is playing. Pause the other app, and give
+  Pulse a few seconds. The info bar shows which app it's following.
 
 ## Uninstall
 
@@ -98,5 +106,5 @@ and installs it the next time you close Pulse. Press **U** to install it straigh
 ---
 
 <sub>Pulse is made by <a href="https://github.com/afeef-iniyavan">Afeef Iniyavan</a>. It's an independent app, not made by or
-affiliated with Spotify. Lyrics come from LRCLIB. The songs in these screenshots are Pulse's own
+affiliated with Spotify or YouTube. Lyrics come from LRCLIB. The songs in these screenshots are Pulse's own
 demo songs.</sub>

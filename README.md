@@ -23,6 +23,8 @@ everything moves with the beat.
 - **Every song looks different.** Pulse listens to the tempo and picks a look to match: flowing ink
   for slow songs, a growing collage for mid-tempo ones, a glowing beam for fast ones.
 - **Songs build up.** Pulse finds the verses and choruses, so each chorus hits harder than the last.
+- **Smooth song changes.** A short animation bridges one song to the next: a vinyl swap, a
+  split-flap board, flipping tiles or a developing polaroid, a different one each time.
 - **Words come alive.** "Fire" catches flame, "rain" drips, "down" falls off the line, "heart" beats
   with the drums.
 - **Works in the background too.** Press **L** for a slim lyric bar that stays on top of your other

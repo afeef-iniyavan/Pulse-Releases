@@ -27,9 +27,13 @@ everything moves with the beat.
   split-flap board, flipping tiles or a developing polaroid, a different one each time.
 - **Words come alive.** "Fire" catches flame, "rain" drips, "down" falls off the line, "heart" beats
   with the drums.
+- **No lyrics? Never a blank screen.** If a song's lyrics can't be found, a show plays instead,
+  in time with the beat: the band live on stage, a night drive, an 8-bit runner, an aquarium or
+  fireworks over the city.
 - **Works in the background too.** Press **L** for a slim lyric bar that stays on top of your other
   windows while you work.
-- **YouTube too.** Pulse follows whatever is playing, cleans up video titles to find the lyrics,
+- **YouTube too.** Pulse follows whatever is playing, reads video titles in many styles and
+  languages to find the lyrics,
   and when an ad comes on, the band takes a break: a little animated story that lasts as long as
   the ad, and the curtain goes back up when your song returns.
 - **No sign-in.** It works with Spotify Free or Premium, and YouTube with or without an account.
@@ -92,8 +96,9 @@ and installs it the next time you close Pulse. Press **U** to install it straigh
 
 ## If something's not right
 
-- **"No lyrics found":** LRCLIB doesn't have timed lyrics for that song yet. Pulse shows the album
-  cover with a visualizer instead.
+- **"No lyrics found":** LRCLIB doesn't have lyrics for that song yet, so Pulse plays a show
+  instead (Settings → No-lyrics show to pick one, or turn them off). If only untimed lyrics exist,
+  Pulse spreads them over the song: press **Enter** to line them up.
 - **Lyrics slightly early or late:** use ← / →. Bluetooth headphones add a delay, so they often
   need a nudge.
 - **Lyrics out of time on a music video:** videos often have an intro the album version doesn't.
